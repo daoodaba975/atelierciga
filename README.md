@@ -1,6 +1,6 @@
-# atelierciga
+# Atelier Ciga
 
-A new Flutter project.
+A simple Flutter task app.
 
 ## Getting Started
 
