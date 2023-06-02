@@ -2,6 +2,12 @@
 
 A simple Flutter task app.
 
+## Screenshots
+
+![Mob](assets/mobile.png)
+
+![Web](assets/chrome.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
